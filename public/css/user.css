@@ -1,0 +1,41 @@
+.navbar{
+    height: 90px;
+}
+
+.nav-item{
+    margin-right: 30px;
+}
+
+.navbar img{
+    margin-top: 2%;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px ;
+}
+
+.navbar-nav{
+    margin-right: 100px;
+}
+
+.content{
+    background-image: url("../images/bg.jpg");
+    height: 600px;
+    /*width: 100%;*/
+    max-width: 100%;
+    /*width: 1280px;*/
+    background-size: 100% 100%;
+}
+
+/*jokhon screen er size maximum 1280px hobe ba tar theke kom thakbe tokhon*/
+@media screen and (max-width: 1280px){
+    .content{
+        height: 550px;
+    }
+}
+
+/*jokhon screen er size minimum 1500px hobe ba tar theke beshi hobe*/
+@media screen and (min-width: 1500px){
+    .content{
+        height: 700px;
+    }
+}
