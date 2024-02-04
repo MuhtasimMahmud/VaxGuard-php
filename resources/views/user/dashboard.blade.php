@@ -34,8 +34,15 @@
         {{--<img src={{ asset('images/bg.jpg') }} alt="">--}}
 
 
-        {{--body start--}}
+        {{--background image--}}
         <div class="content">
+
+
+
+        </div>
+
+        {{--nicher bar ta--}}
+        <div class="lowerBox">
 
         </div>
 
