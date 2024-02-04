@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <div class="">
+    <div class="container">
 
         {{--Navbar start--}}
         <div class="row">
