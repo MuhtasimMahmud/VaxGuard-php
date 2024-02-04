@@ -13,6 +13,7 @@
     width: 60px;
     height: 60px;
     margin-left: 100px ;
+    margin-right: 10px;
 }
 
 .navbar-nav{
@@ -54,3 +55,28 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 8px;
 }
+
+.bigButton{
+    margin-right: 100px;
+}
+
+.buttons{
+    display: inline-list-item;
+    float: bottom;
+    height: 300px;
+    width: 500px;
+}
+
+.markBox{
+    margin-top: 5%;
+    height: 10px;
+    width: 4px;
+    background: black;
+    float: left;
+}
+
+.process{
+    margin-top: 5%;
+}
+
+
