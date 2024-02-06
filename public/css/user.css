@@ -101,14 +101,8 @@
 
 
 button img{
-    height: 20px;
-    width: 20px;
+    height: 25px;
+    width: 25px;
 }
 
 
-.buttons button{
-    border-left: 10px solid;
-    border-left-color: #1a202c;
-    border-radius: 10px;
-    background-color: ivory;
-}
