@@ -39,18 +39,19 @@
         {{--background image--}}
         <div class="content">
             <div class="row">
-                <div class="col-md-7">
-                    <div class="col-md-3">
+                <div class="col-md-7 functionButtons">
+                    <div class="col-md-4 box">
                         <div class="bigButton">
                             <button> abc </button>
                         </div>
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-3 box">
                         <div class="buttons">
-                            <button> abc </button>
-                            <button> bcd </button>
-                            <button> aad </button>
+                            <button> Cheque Status </button>
+                            <button> Vaccine Card </button>
+                            <button> Birth Certificate </button>
+                            <button> FAQ </button>
                         </div>
                     </div>
                 </div>

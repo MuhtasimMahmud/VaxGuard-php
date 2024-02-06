@@ -56,24 +56,44 @@
     border-radius: 8px;
 }
 
-.bigButton{
-    margin-right: 100px;
+.functionButtons{
+    margin-top: 11%;
 }
 
-.buttons{
-    display: inline-list-item;
-    float: bottom;
-    height: 300px;
-    width: 500px;
+.box{
+    float: left;
 }
+
+.bigButton{
+    margin-right: 100px;
+    margin-left: 50%;
+}
+
+.bigButton button{
+    height: 215px;
+    width: 230px;
+}
+
+.buttons button{
+    margin-left: 95%;
+    margin-bottom: 6px;
+    height: 50px;
+    display: inline-block;
+    width: 230px;
+}
+
 
 .markBox{
     margin-top: 5%;
     height: 10px;
     width: 4px;
     background: black;
+}
+
+.headline{
     float: left;
 }
+
 
 .process{
     margin-top: 5%;
