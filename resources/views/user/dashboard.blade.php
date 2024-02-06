@@ -42,7 +42,7 @@
                 <div class="col-md-7 functionButtons">
                     <div class="col-md-4 box">
                         <div class="bigButton">
-                            <button> abc </button>
+                            <button><img src="{{ asset('images/list1.png') }}" alt=""> VACCINE LIST </button>
                         </div>
                     </div>
 

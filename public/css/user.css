@@ -72,6 +72,9 @@
 .bigButton button{
     height: 215px;
     width: 230px;
+    border: none;
+    border-radius: 10px;
+    background-color: #f7fafc;
 }
 
 .buttons button{
@@ -80,27 +83,34 @@
     height: 50px;
     display: inline-block;
     width: 230px;
+    border: none;
+    border-radius: 10px;
+    background-color: #f7fafc;
+}
+
+button:hover{
+    background-color: #cbd5e0;
 }
 
 
 .markBox{
     margin-top: 5%;
-    height: 10px;
-    width: 4px;
+    height: 13px;
+    width: 6px;
     background: black;
 }
-
-.headline{
-    float: left;
-}
-
 
 .process{
     margin-top: 5%;
 }
 
 
-button img{
+.bigButton button img{
+    height: 80px;
+    width: 80px;
+}
+
+.buttons button img{
     height: 25px;
     width: 25px;
 }
