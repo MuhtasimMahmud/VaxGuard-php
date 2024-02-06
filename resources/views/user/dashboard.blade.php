@@ -48,10 +48,10 @@
 
                     <div class="col-md-3 box">
                         <div class="buttons">
-                            <button> Cheque Status </button>
-                            <button> Vaccine Card </button>
-                            <button> Birth Certificate </button>
-                            <button> FAQ </button>
+                            <button><img src="{{ asset('images/chequeStatus.png') }}" alt=""> Cheque Status </button>
+                            <button><img src="{{ asset('images/vaccineCard.png') }}" alt=""> Vaccine Card </button>
+                            <button><img src="{{ asset('images/birthCertificate.png') }}" alt=""> Birth Certificate </button>
+                            <button><img src="{{ asset('images/faq.png') }}" alt=""> FAQ </button>
                         </div>
                     </div>
                 </div>
