@@ -134,34 +134,31 @@
     {{--Footer--}}
 
     <footer class="w-100 py-4 flex-shrink-0">
-        <div class="footer container py-4">
-            <div class="row gy-4 gx-5">
+        <div class="container py-4">
+            <div class="footer row">
                 <div class="col-lg-4 col-md-6">
                     <h5 class="h1 text-white">VaxGuard</h5>
                     <p class="small text-muted"> A trustable child important vaccine provider partner of government.</p>
                     <p class="small text-muted mb-0">&copy; Copyrights. All rights reserved. <a class="text-primary" href="#">vaxguard.c.com</a></p>
                 </div>
-{{--                <div class="col-lg-2 col-md-6">--}}
-{{--                    <h5 class="text-white mb-3">Quick links</h5>--}}
-{{--                    <ul class="list-unstyled text-muted">--}}
-{{--                        <li><a href="#">Home</a></li>--}}
-{{--                        <li><a href="#">About</a></li>--}}
-{{--                        <li><a href="#">Get started</a></li>--}}
-{{--                        <li><a href="#">FAQ</a></li>--}}
-{{--                    </ul>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-2 col-md-6">--}}
-{{--                    <h5 class="text-white mb-3">Quick links</h5>--}}
-{{--                    <ul class="list-unstyled text-muted">--}}
-{{--                        <li><a href="#">Home</a></li>--}}
-{{--                        <li><a href="#">About</a></li>--}}
-{{--                        <li><a href="#">Get started</a></li>--}}
-{{--                        <li><a href="#">FAQ</a></li>--}}
-{{--                    </ul>--}}
-{{--                </div>--}}
+                <div class="col-lg-2 col-md-6">
+                    <h5 class="text-white mb-3">Hospitals</h5>
+                    <ul class="list-unstyled text-muted">
+                        <li><a href="#">Dhaka</a></li>
+                        <li><a href="#">Chittagong</a></li>
+                        <li><a href="#">Sylhet</a></li>
+                        <li><a href="#">Mymensingh</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <h5 class="text-white mb-3"> Associates</h5>
+                    <ul class="list-unstyled text-muted">
+                        <li><a href="#">Government & Private Clinics</a></li>
+                    </ul>
+                </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-white mb-3">Newsletter</h5>
-                    <p class="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                    <p class="small text-muted"> If you want to receive our updated news then you can share your mail address.</p>
                     <form action="#">
                         <div class="input-group mb-3">
                             <input class="form-control" type="text" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
