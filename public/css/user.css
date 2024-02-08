@@ -20,7 +20,7 @@
     margin-right: 100px;
 }
 
-.content{
+.contents{
     margin-top: 5%;
     background-image: url("../images/bg2.jpg");
     height: 600px;
@@ -34,14 +34,14 @@
 
 /*jokhon screen er size maximum 1280px hobe ba tar theke kom thakbe tokhon*/
 @media screen and (max-width: 1280px){
-    .content{
+    .contents{
         height: 500px;
     }
 }
 
 /*jokhon screen er size minimum 1500px hobe ba tar theke beshi hobe*/
 @media screen and (min-width: 1500px){
-    .content{
+    .contents{
         height: 500px;
     }
 }

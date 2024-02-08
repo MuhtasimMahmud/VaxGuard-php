@@ -37,7 +37,7 @@
 
 
         {{--background image--}}
-        <div class="content">
+        <div class="contents">
             <div class="row">
                 <div class="col-md-7 functionButtons">
                     <div class="col-md-4 box">
