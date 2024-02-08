@@ -70,12 +70,22 @@
 
         {{-- Just headline of the process--}}
         <div class="processHeadline">
-            <div class="markBox">
+            <div class="row">
+                <div class="col-md-1">
+                    <div class="markBox">
+
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="text">
+                        <h4> The process of receiving the vaccines.</h4>
+                    </div>
+                </div>
 
             </div>
-            <div class="text">
-                <h4> The process of receiving the vaccines.</h4>
-            </div>
+
+
         </div>
 
         {{--Process --}}

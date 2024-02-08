@@ -92,11 +92,15 @@ button:hover{
     background-color: #cbd5e0;
 }
 
+.processHeadline{
+    margin-top: 5%;
+}
 
 .markBox{
-    margin-top: 5%;
-    height: 13px;
+    height: 25px;
     width: 6px;
+    margin-left: auto;
+    margin-top: 6%;
     background: black;
 }
 
