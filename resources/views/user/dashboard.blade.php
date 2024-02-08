@@ -98,9 +98,9 @@
                         <h5 class="card-title"> Registration </h5>
                         <p class="card-text"> At First you've to registration your child's name and birth time through the hospital authority. </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+{{--                    <div class="card-footer">--}}
+{{--                        <small class="text-muted">Last updated 3 mins ago</small>--}}
+{{--                    </div>--}}
                 </div>
                 <div class="card">
                     <img class="card-img-top" src= {{ asset('images/birthCertificate.png') }} >
@@ -108,9 +108,9 @@
                         <h5 class="card-title">Birth Certificate</h5>
                         <p class="card-text"> Now you've to request the birth Certificate through the token you've given by the hospital.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+{{--                    <div class="card-footer">--}}
+{{--                        <small class="text-muted">Last updated 3 mins ago</small>--}}
+{{--                    </div>--}}
                 </div>
                 <div class="card">
                     <img class="card-img-top" src={{ asset('images/vaccineCard.png') }}>
@@ -118,9 +118,9 @@
                         <h5 class="card-title">Take Vaccine</h5>
                         <p class="card-text">Now your child can take the vaccine from hospital by seeing which vaccine should take now. </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+{{--                    <div class="card-footer">--}}
+{{--                        <small class="text-muted">Last updated 3 mins ago</small>--}}
+{{--                    </div>--}}
                 </div>
             </div>
 
@@ -128,15 +128,50 @@
 
         {{--body end--}}
 
-
-
-
-
-
-
     </div>
 
 
+    {{--Footer--}}
+
+    <footer class="w-100 py-4 flex-shrink-0">
+        <div class="footer container py-4">
+            <div class="row gy-4 gx-5">
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="h1 text-white">VaxGuard</h5>
+                    <p class="small text-muted"> A trustable child important vaccine provider partner of government.</p>
+                    <p class="small text-muted mb-0">&copy; Copyrights. All rights reserved. <a class="text-primary" href="#">vaxguard.c.com</a></p>
+                </div>
+{{--                <div class="col-lg-2 col-md-6">--}}
+{{--                    <h5 class="text-white mb-3">Quick links</h5>--}}
+{{--                    <ul class="list-unstyled text-muted">--}}
+{{--                        <li><a href="#">Home</a></li>--}}
+{{--                        <li><a href="#">About</a></li>--}}
+{{--                        <li><a href="#">Get started</a></li>--}}
+{{--                        <li><a href="#">FAQ</a></li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-2 col-md-6">--}}
+{{--                    <h5 class="text-white mb-3">Quick links</h5>--}}
+{{--                    <ul class="list-unstyled text-muted">--}}
+{{--                        <li><a href="#">Home</a></li>--}}
+{{--                        <li><a href="#">About</a></li>--}}
+{{--                        <li><a href="#">Get started</a></li>--}}
+{{--                        <li><a href="#">FAQ</a></li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="text-white mb-3">Newsletter</h5>
+                    <p class="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                    <form action="#">
+                        <div class="input-group mb-3">
+                            <input class="form-control" type="text" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <button class="btn btn-primary" id="button-addon2" type="button"><i class="fas fa-paper-plane"></i></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 </body>
 </html>
