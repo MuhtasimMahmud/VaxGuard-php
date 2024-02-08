@@ -95,8 +95,8 @@
                 <div class="card">
                     <img class="card-img-top" src= {{ asset('images/hospitalRegistration.png') }} >
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title"> Registration </h5>
+                        <p class="card-text"> At First you've to registration your child's name and birth time through the hospital authority. </p>
                     </div>
                     <div class="card-footer">
                         <small class="text-muted">Last updated 3 mins ago</small>
@@ -105,8 +105,8 @@
                 <div class="card">
                     <img class="card-img-top" src= {{ asset('images/birthCertificate.png') }} >
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                        <h5 class="card-title">Birth Certificate</h5>
+                        <p class="card-text"> Now you've to request the birth Certificate through the token you've given by the hospital.</p>
                     </div>
                     <div class="card-footer">
                         <small class="text-muted">Last updated 3 mins ago</small>
@@ -115,8 +115,8 @@
                 <div class="card">
                     <img class="card-img-top" src={{ asset('images/vaccineCard.png') }}>
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        <h5 class="card-title">Take Vaccine</h5>
+                        <p class="card-text">Now your child can take the vaccine from hospital by seeing which vaccine should take now. </p>
                     </div>
                     <div class="card-footer">
                         <small class="text-muted">Last updated 3 mins ago</small>
