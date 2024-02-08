@@ -119,4 +119,12 @@ button:hover{
     width: 25px;
 }
 
+.card img{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
 
