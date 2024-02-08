@@ -55,6 +55,23 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 8px;
 }
+.item{
+    margin-top: 40px;
+}
+
+.lowerBox span{
+    margin-top: 40px;
+}
+
+.lowerBox .item{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.lowerBox span{
+    margin-left: 50px;
+}
 
 .functionButtons{
     margin-top: 11%;

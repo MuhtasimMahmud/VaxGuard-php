@@ -65,7 +65,25 @@
 
         {{--nicher bar ta--}}
         <div class="lowerBox">
+            <div class="row items">
+                <item class="item"> Hotline - 333 </item>
+                <span class=""> | </span>
+                <item class="item"> Health Portal - 999 </item>
+                <span class=""> | </span>
+                <item class="item"> Vaccine Authority - 7887 </item>
+                <span class=""> | </span>
+                <item class="item"> IEDCR - 34234 </item>
 
+            </div>
+
+{{--            <div class="row items">--}}
+{{--                <item class="item"> abc </item>--}}
+{{--                <item class="item"> abc </item>--}}
+{{--                <item class="item"> abc </item>--}}
+{{--                <item class="item"> abc </item>--}}
+{{--                <item class="item"> abc </item>--}}
+{{--                <item class="item"> abc </item>--}}
+{{--            </div>--}}
         </div>
 
         {{-- Just headline of the process--}}
